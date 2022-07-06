@@ -3,7 +3,7 @@ An algorithm exploiting deep monocular depth to improve image feature matching.
 
 # Authors 
 Oguzhan Ilter, Guney Tombak <br/>
-Supervisor: Dr. Daniel Barath <br/>
+Supervisor: [Dr. Daniel Barath](https://github.com/danini) <br/>
 oilter@ethz.ch | gtombak@ethz.ch<br/>
 3D Vision by CVG, ETH Zurich <br/>
 
