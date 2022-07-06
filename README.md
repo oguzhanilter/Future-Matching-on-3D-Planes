@@ -1,6 +1,12 @@
 # Future Matching on 3D Planes 
 An algorithm exploiting deep monocular depth to improve image feature matching.
 
+# Authors 
+Oguzhan Ilter, Guney Tombak
+Supervisor: Dr. Daniel Barath 
+oilter@ethz.ch | gtombak@ethz.ch
+3D Vision by CVG, ETH Zurich 
+
 # Abstract
 In this project, we propose an algorithm exploiting deep monocular depth to improve image feature matching.
 Using the monocular depth, we find multiple quasi-3D planes in each image that are then matched using deep learned similarity scores and the HDBSCAN clustering algorithm. 
