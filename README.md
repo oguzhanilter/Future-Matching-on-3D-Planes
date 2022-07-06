@@ -2,10 +2,10 @@
 An algorithm exploiting deep monocular depth to improve image feature matching.
 
 # Authors 
-Oguzhan Ilter, Guney Tombak
-Supervisor: Dr. Daniel Barath 
-oilter@ethz.ch | gtombak@ethz.ch
-3D Vision by CVG, ETH Zurich 
+Oguzhan Ilter, Guney Tombak <br/>
+Supervisor: Dr. Daniel Barath <br/>
+oilter@ethz.ch | gtombak@ethz.ch<br/>
+3D Vision by CVG, ETH Zurich <br/>
 
 # Abstract
 In this project, we propose an algorithm exploiting deep monocular depth to improve image feature matching.
